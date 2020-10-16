@@ -1,0 +1,32 @@
+C:\Users\kevin\source\repos\CH10CardLib\CH10CardLib\bin\Debug\CH10CardLib.dll
+C:\Users\kevin\source\repos\CH10CardLib\CH10CardLib\bin\Debug\CH10CardLib.pdb
+C:\Users\kevin\source\repos\CH10CardLib\CH10CardLib\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\CH10CardLib\CH10CardLib\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\CH10CardLib\CH10CardLib\obj\Debug\CH10CardLib.dll
+C:\Users\kevin\source\repos\CH10CardLib\CH10CardLib\obj\Debug\CH10CardLib.pdb
+C:\Users\kevin\source\repos\Durak\CardLibrary\bin\Debug\CH10CardLib.dll
+C:\Users\kevin\source\repos\Durak\CardLibrary\bin\Debug\CH10CardLib.pdb
+C:\Users\kevin\source\repos\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Durak\CardLibrary\obj\Debug\CH10CardLib.dll
+C:\Users\kevin\source\repos\Durak\CardLibrary\obj\Debug\CH10CardLib.pdb
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\2\Durak\CardLibrary\bin\Debug\CH10CardLib.dll
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\2\Durak\CardLibrary\bin\Debug\CH10CardLib.pdb
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\2\Durak\CardLibrary\obj\Debug\CH10CardLib.dll
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\2\Durak\CardLibrary\obj\Debug\CH10CardLib.pdb
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\2\Durak\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\4\Durak\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\4\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\4\Durak\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\4\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\4\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.Cache
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\4\Durak\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Riyaz\Desktop\DC\2\sem2\oop3\final project\New folder\4\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\kevin\Desktop\Durak1\Durak\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\kevin\Desktop\Durak1\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\kevin\Desktop\Durak1\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Durak1\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\kevin\Desktop\Durak1\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Durak1\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Durak1\Durak\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\kevin\Desktop\Durak1\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
